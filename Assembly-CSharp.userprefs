@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\a\Documents\Visual Studio 2017\Projects\VRC_DN\Assembly-CSharp\PlayerModManager.cs" relfile="Assembly-CSharp\PlayerModManager.cs" line="20" column="1" />
+      <Breakpoint file="C:\Users\a\Documents\Visual Studio 2017\Projects\VRC_DN\Assembly-CSharp\VRCFlowManager.cs" relfile="Assembly-CSharp\VRCFlowManager.cs" line="107" column="1" />
+      <Breakpoint file="C:\Users\a\Documents\Visual Studio 2017\Projects\VRC_DN\Assembly-CSharp\VRCUser.cs" relfile="Assembly-CSharp\VRCUser.cs" line="19" column="1" />
+      <Breakpoint file="C:\Users\a\Documents\Visual Studio 2017\Projects\VRC_DN\Assembly-CSharp\VRCUser.cs" relfile="Assembly-CSharp\VRCUser.cs" line="20" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assembly-CSharp\VRCUser.cs">
+    <Files>
+      <File FileName="Assembly-CSharp\PlayerModManager.cs" Line="29" Column="73" />
+      <File FileName="Assembly-CSharp\VRCFlowManager.cs" Line="87" Column="79" />
+      <File FileName="Assembly-CSharp\VRCUser.cs" Line="12" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assembly-CSharp" expanded="True" selected="True">
+            <Node name="Assembly-CSharp" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

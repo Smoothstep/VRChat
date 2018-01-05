@@ -1,0 +1,28 @@
+﻿using System;
+
+// Token: 0x02000A36 RID: 2614
+public enum FIKBodyBenderEffectorType
+{
+	// Token: 0x040036E3 RID: 14051
+	INVALID,
+	// Token: 0x040036E4 RID: 14052
+	HEAD,
+	// Token: 0x040036E5 RID: 14053
+	LHAND,
+	// Token: 0x040036E6 RID: 14054
+	RHAND,
+	// Token: 0x040036E7 RID: 14055
+	LSHOULDER,
+	// Token: 0x040036E8 RID: 14056
+	RSHOULDER,
+	// Token: 0x040036E9 RID: 14057
+	BODY,
+	// Token: 0x040036EA RID: 14058
+	LTHIGH,
+	// Token: 0x040036EB RID: 14059
+	RTHIGH,
+	// Token: 0x040036EC RID: 14060
+	LFOOT,
+	// Token: 0x040036ED RID: 14061
+	RFOOT
+}
